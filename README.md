@@ -20,4 +20,6 @@ npm run build
 npm run lint
 ```
 
+### Estado de la web
+
  [![Netlify Status](https://api.netlify.com/api/v1/badges/663ed55b-0a5f-4373-aca5-3f94d947e46a/deploy-status)](https://app.netlify.com/sites/ethichub-vue/deploys)
