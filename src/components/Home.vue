@@ -9,12 +9,12 @@
     </div>
 
     <div class="name">
-      <div class="letter">
+      <!-- <div class="letter">
         <img src="../assets/img/E.jpg" class="letter-image" />
       </div>
       <div class="letter">
         <img src="../assets/img/t.jpg" class="letter-image" />
-      </div>
+      </div> -->
       <div class="letter">
         <img src="../assets/img/i.jpg" class="letter-image" />
       </div>
