@@ -1,4 +1,4 @@
-# vuegithub
+# Ethichub - Vue
 
 ## Project setup
 ```
