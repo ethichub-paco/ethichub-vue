@@ -48,7 +48,7 @@ export default {
   justify-content: center;
   vertical-align: middle;
   margin-top: 30px;
-  width: 99vw;
+  width: 98.7vw;
   height: 100vm;
 }
 .letter {
